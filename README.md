@@ -1,2 +1,3 @@
 # lab4
-hpc lab4 homework
+
+This repository if for lab4 of the hpc subject!
